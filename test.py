@@ -1,3 +1,3 @@
 
 def back_propagation():
-    pass
+    print(" hello ")
